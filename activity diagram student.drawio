@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2023-12-25T18:36:55.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="i-PYYjplD6R6vYnPO-i3" version="22.1.11" type="device">
+  <diagram name="Page-1" id="aPb-wW69DNEXqfCDZpno">
+    <mxGraphModel dx="7796" dy="3120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PhD-U9w4xLc609E3J4qB-1" value="навчальний план" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.438;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.431;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-319.53" y="140" as="sourcePoint" />
+            <mxPoint x="-320.53" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PhD-U9w4xLc609E3J4qB-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="220" />
+              <mxPoint x="60" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-4" value="Студенти" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320.05999999999995" y="250" as="sourcePoint" />
+            <mxPoint x="-320.53" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-320.05999999999995" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PhD-U9w4xLc609E3J4qB-8" target="PhD-U9w4xLc609E3J4qB-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="480" />
+              <mxPoint x="-110" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PhD-U9w4xLc609E3J4qB-8" target="PhD-U9w4xLc609E3J4qB-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-8" value="обрати тему курсової" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-9" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="388" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-10" value="Обрати курсову" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="328" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320.05999999999995" y="388" as="sourcePoint" />
+            <mxPoint x="-321" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-320.05999999999995" y="418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;yes&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="520" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-13" value="здати курсову вчителю" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PhD-U9w4xLc609E3J4qB-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PhD-U9w4xLc609E3J4qB-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-16" value="прийти на пару" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="20" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;yes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="380" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-18" value="Підключитись на заняття" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhD-U9w4xLc609E3J4qB-19" value="повідомити причину відсутності" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
